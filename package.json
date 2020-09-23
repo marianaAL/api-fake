@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marianaAL/api-fake/issues"
   },
-  "homepage": "https://github.com/marianaAL/api-fake#readme"
+  "homepage": "https://github.com/marianaAL/api-fake#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }

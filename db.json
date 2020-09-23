@@ -1,3 +1,5 @@
+{
+  "Estudiante" : 
 [
   {
     "id": 1,
@@ -450,3 +452,4 @@
     "foto": "http://dummyimage.com/417x112.png/cc0000/ffffff"
   }
 ]
+}
